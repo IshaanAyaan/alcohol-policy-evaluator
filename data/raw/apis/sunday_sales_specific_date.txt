@@ -1,0 +1,955 @@
+Title: Bans on Off-Premises Sunday Sales | APIS
+
+URL Source: http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28
+
+Published Time: Sat, 14 Feb 2026 19:07:00 GMT
+
+Markdown Content:
+Bans on Off-Premises Sunday Sales | APIS - Alcohol Policy Information System
+===============
+[Skip to main content](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28#main-content)
+
+A project of the National Institute on Alcohol Abuse and Alcoholism
+
+[![Image 1: APIS: Alcohol Policy Information System](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/images/homepage/shared/apis-logo.png)](http://alcoholpolicy.niaaa.nih.gov/ "APIS Logo")
+
+ Menu 
+
+![Image 2](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/uswds-assets/images/close-white.svg)
+*   Policy Topics
+
+    *   Alcohol Beverages Pricing
+    *   [Drink Specials](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/drink-specials/2/about-this-policy)
+    *   [Wholesale Pricing Practices and Restrictions](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wholesale-pricing-practices-and-restrictions/3/about-this-policy)
+
+    *   Alcohol Beverages Taxes
+    *   [Beer](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/beer/30/about-this-policy)
+    *   [Distilled Spirits](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/distilled-spirits/31/about-this-policy)
+    *   [Wine](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wine/32/about-this-policy)
+
+    *   Alcohol Control Systems
+    *   [Retail Distribution Systems for Beer](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/retail-distribution-systems-for-beer/5/about-this-policy)
+    *   [Retail Distribution Systems for Spirits](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/retail-distribution-systems-for-spirits/7/about-this-policy)
+    *   [Retail Distribution Systems for Wine](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/retail-distribution-systems-for-wine/9/about-this-policy)
+    *   [Wholesale Distribution Systems for Beer](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wholesale-distribution-systems-for-beer/6/about-this-policy)
+    *   [Wholesale Distribution Systems for Spirits](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wholesale-distribution-systems-for-spirits/8/about-this-policy)
+    *   [Wholesale Distribution Systems for Wine](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wholesale-distribution-systems-for-wine/10/about-this-policy)
+
+    *   Blood Alcohol Concentration Limits 
+    *   [Adult Operators of Noncommercial Motor Vehicles](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/adult-operators-of-noncommercial-motor-vehicles/12/about-this-policy)
+    *   [Operators of Recreational Watercraft](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/operators-of-recreational-watercraft/14/about-this-policy)
+    *   [Youth (Underage Operators of Noncommercial Motor Vehicles)](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/youth-underage-operators-of-noncommercial-motor-vehicles/13/about-this-policy)
+
+    *   Health Care Services and Financing
+    *   [Health Insurance Parity for Alcohol-Related Treatment](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/health-insurance-parity-for-alcohol-related-treatment/17/about-this-policy)
+    *   [Health Insurance: Losses due to Intoxication (“UPPL”)](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/health-insurance-losses-due-to-intoxication-uppl/16/about-this-policy)
+
+    *   Pregnancy and Alcohol
+    *   [Civil Commitment](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/civil-commitment/20/about-this-policy)
+    *   [Legal Significance for Child Abuse/Child Neglect](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/legal-significance-for-child-abusechild-neglect/19/about-this-policy)
+    *   [Limitations on Criminal Prosecution](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/limitations-on-criminal-prosecution/21/about-this-policy)
+    *   [Priority Treatment](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/priority-treatment/22/about-this-policy)
+    *   [Reporting Requirements](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/reporting-requirements/23/about-this-policy)
+    *   [Warning Signs: Drinking During Pregnancy](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/warning-signs-drinking-during-pregnancy/24/about-this-policy)
+
+    *   Pregnancy and Drugs
+    *   [Civil Commitment](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/civil-commitment/159/about-this-policy)
+    *   [Legal Significance for Child Abuse/Child Neglect](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/legal-significance-for-child-abusechild-neglect/160/about-this-policy)
+    *   [Limitations on Criminal Prosecution](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/limitations-on-criminal-prosecution/161/about-this-policy)
+    *   [Priority Treatment](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/priority-treatment/162/about-this-policy)
+    *   [Reporting Requirements](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/reporting-requirements/163/about-this-policy)
+    *   [Warning Signs: Drugs During Pregnancy](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/warning-signs-drugs-during-pregnancy/164/about-this-policy)
+
+    *   Retail Sales
+    *   [Bans on Off-Premises Sunday Sales](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/about-this-policy)
+    *   [Beverage Service Training and Related Practices](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/beverage-service-training-and-related-practices/26/about-this-policy)
+    *   [Keg Registration](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/keg-registration/27/about-this-policy)
+    *   [COVID-19](http://alcoholpolicy.niaaa.nih.gov/resource/covid-19-alcohol-related-state-policies/98)
+
+    *   Transportation
+    *   [Open Containers of Alcohol in Motor Vehicles](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/open-containers-of-alcohol-in-motor-vehicles/34/about-this-policy)
+    *   [Vehicular Insurance: Losses due to Intoxication (Inactive)](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/vehicular-insurance-losses-due-to-intoxication/35/about-this-policy)
+
+    *   Underage Drinking
+    *   [False Identification for Obtaining Alcohol](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/false-identification-for-obtaining-alcohol/39/about-this-policy)
+    *   [Furnishing Alcohol to Minors](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/furnishing-alcohol-to-minors/40/about-this-policy)
+    *   [Minimum Ages for Off-Premises Sellers](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/minimum-ages-for-off-premises-sellers/37/about-this-policy)
+    *   [Minimum Ages for On-Premises Servers and Bartenders](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/minimum-ages-for-on-premises-servers-and-bartenders/38/about-this-policy)
+    *   [Possession/Consumption/Internal Possession of Alcohol](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/possessionconsumptioninternal-possession-of-alcohol/42/about-this-policy)
+    *   [Prohibitions Against Hosting Underage Drinking Parties](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/prohibitions-against-hosting-underage-drinking-parties/41/about-this-policy)
+    *   [Underage Purchase of Alcohol](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/underage-purchase-of-alcohol/43/about-this-policy)
+    *   [Use/Lose: Driving Privileges](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/uselose-driving-privileges/44/about-this-policy)
+
+    *   Cannabis Topics
+    *   [Cannabis Pricing](http://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-pricing/166/about-this-policy)
+    *   [Cannabis Advertising Restrictions](http://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-advertising-restrictions/167/about-this-policy)
+    *   [Cannabis Cultivation and Distribution](http://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-cultivation-and-distribution/168/about-this-policy)
+    *   [Cannabis Retail Access](http://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-retail-access/169/about-this-policy)
+    *   [Cannabis Use Possession](http://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-use-possession/170/about-this-policy)
+    *   [Cannabis Packaging / Health & Safety Requirements](http://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-packaging-health-safety-requirements/171/about-this-policy)
+    *   [Cannabis Transportation Restrictions](http://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-transportation-restrictions/172/about-this-policy)
+
+*   [Download Policy Data](http://alcoholpolicy.niaaa.nih.gov/policy-topics/download-policy-topic-data)
+*   [Policy Changes at a Glance](http://alcoholpolicy.niaaa.nih.gov/policy-changes-at-a-glance)
+*   Resources
+    *   [Resources](http://alcoholpolicy.niaaa.nih.gov/resources)
+    *   [References](http://alcoholpolicy.niaaa.nih.gov/references)
+
+*   About
+    *   [About APIS](http://alcoholpolicy.niaaa.nih.gov/about-apis)
+    *   [Alcohol Policy](http://alcoholpolicy.niaaa.nih.gov/about/about-alcohol-policy)
+    *   [About Cannabis Policy](http://alcoholpolicy.niaaa.nih.gov/about/about-cannabis-policy)
+    *   [Frequently Asked Questions](http://alcoholpolicy.niaaa.nih.gov/frequently-asked-questions)
+    *   [Web Site Change Log](http://alcoholpolicy.niaaa.nih.gov/apis-change-log)
+    *   [Privacy](http://alcoholpolicy.niaaa.nih.gov/privacy)
+
+Search Site Submit Search
+
+ Retail Sales 
+
+Bans on Off-Premises Sunday Sales
+=================================
+
+Laws banning Sunday sales of alcoholic beverages for off-premises consumption as of January 1, 1998 and repeals from that date forward.
+
+Policy Topics Navigation
+------------------------
+
+_View another policy topic by selecting an option from the following menu._
+
+ Policy Topics 
+
+**Alcohol Beverages Pricing**
+*   [Drink Specials](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/drink-specials/2/about-this-policy) 
+*   [Wholesale Pricing Practices and Restrictions](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wholesale-pricing-practices-and-restrictions/3/about-this-policy) 
+
+**Alcohol Beverages Taxes**
+*   [Beer](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/beer/30/about-this-policy) 
+*   [Distilled Spirits](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/distilled-spirits/31/about-this-policy) 
+*   [Wine](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wine/32/about-this-policy) 
+
+**Alcohol Control Systems**
+*   [Retail Distribution Systems for Beer](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/retail-distribution-systems-for-beer/5/about-this-policy) 
+*   [Retail Distribution Systems for Spirits](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/retail-distribution-systems-for-spirits/7/about-this-policy) 
+*   [Retail Distribution Systems for Wine](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/retail-distribution-systems-for-wine/9/about-this-policy) 
+*   [Wholesale Distribution Systems for Beer](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wholesale-distribution-systems-for-beer/6/about-this-policy) 
+*   [Wholesale Distribution Systems for Spirits](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wholesale-distribution-systems-for-spirits/8/about-this-policy) 
+*   [Wholesale Distribution Systems for Wine](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/wholesale-distribution-systems-for-wine/10/about-this-policy) 
+
+**Blood Alcohol Concentration (BAC) Limits**
+*   [Adult Operators of Noncommercial Motor Vehicles](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/adult-operators-of-noncommercial-motor-vehicles/12/about-this-policy) 
+*   [Operators of Recreational Watercraft](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/operators-of-recreational-watercraft/14/about-this-policy) 
+*   [Youth (Underage Operators of Noncommercial Motor Vehicles)](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/youth-underage-operators-of-noncommercial-motor-vehicles/13/about-this-policy) 
+
+**Health Care Services and Financing**
+*   [Health Insurance Parity for Alcohol-Related Treatment](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/health-insurance-parity-for-alcohol-related-treatment/17/about-this-policy) 
+*   [Health Insurance: Losses due to Intoxication (“UPPL”)](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/health-insurance-losses-due-to-intoxication-uppl/16/about-this-policy) 
+
+**Pregnancy and Alcohol**
+*   [Civil Commitment](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/civil-commitment/20/about-this-policy) 
+*   [Legal Significance for Child Abuse/Child Neglect](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/legal-significance-for-child-abusechild-neglect/19/about-this-policy) 
+*   [Limitations on Criminal Prosecution](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/limitations-on-criminal-prosecution/21/about-this-policy) 
+*   [Priority Treatment](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/priority-treatment/22/about-this-policy) 
+*   [Reporting Requirements](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/reporting-requirements/23/about-this-policy) 
+*   [Warning Signs: Drinking During Pregnancy](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/warning-signs-drinking-during-pregnancy/24/about-this-policy) 
+
+**Pregnancy and Drugs**
+*   [Civil Commitment](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/civil-commitment/159/about-this-policy) 
+*   [Legal Significance for Child Abuse/Child Neglect](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/legal-significance-for-child-abusechild-neglect/160/about-this-policy) 
+*   [Limitations on Criminal Prosecution](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/limitations-on-criminal-prosecution/161/about-this-policy) 
+*   [Priority Treatment](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/priority-treatment/162/about-this-policy) 
+*   [Reporting Requirements](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/reporting-requirements/163/about-this-policy) 
+*   [Warning Signs: Drugs During Pregnancy](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/warning-signs-drugs-during-pregnancy/164/about-this-policy) 
+
+**Retail Sales**
+*   [Bans on Off-Premises Sunday Sales](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/about-this-policy) 
+*   [Beverage Service Training and Related Practices](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/beverage-service-training-and-related-practices/26/about-this-policy) 
+*   [Keg Registration](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/keg-registration/27/about-this-policy) 
+
+**Transportation**
+*   [Open Containers of Alcohol in Motor Vehicles](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/open-containers-of-alcohol-in-motor-vehicles/34/about-this-policy) 
+*   [Vehicular Insurance: Losses due to Intoxication (Inactive)](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/vehicular-insurance-losses-due-to-intoxication/35/about-this-policy) 
+
+**Underage Drinking**
+*   [False Identification for Obtaining Alcohol](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/false-identification-for-obtaining-alcohol/39/about-this-policy) 
+*   [Furnishing Alcohol to Minors](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/furnishing-alcohol-to-minors/40/about-this-policy) 
+*   [Minimum Ages for Off-Premises Sellers](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/minimum-ages-for-off-premises-sellers/37/about-this-policy) 
+*   [Minimum Ages for On-Premises Servers and Bartenders](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/minimum-ages-for-on-premises-servers-and-bartenders/38/about-this-policy) 
+*   [Possession/Consumption/Internal Possession of Alcohol](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/possessionconsumptioninternal-possession-of-alcohol/42/about-this-policy) 
+*   [Prohibitions Against Hosting Underage Drinking Parties](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/prohibitions-against-hosting-underage-drinking-parties/41/about-this-policy) 
+*   [Underage Purchase of Alcohol](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/underage-purchase-of-alcohol/43/about-this-policy) 
+*   [Use/Lose: Driving Privileges](https://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/uselose-driving-privileges/44/about-this-policy) 
+
+**Cannabis Policy Topics**
+*   [Cannabis Advertising Restrictions](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-advertising-restrictions/167/about-this-policy) 
+*   [Cannabis Cultivation and Distribution](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-cultivation-and-distribution/168/about-this-policy) 
+*   [Cannabis Packaging / Health & Safety Requirements](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-packaging-health-safety-requirements/171/about-this-policy) 
+*   [Cannabis Pricing](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-pricing/166/about-this-policy) 
+*   [Cannabis Retail Access](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-retail-access/169/about-this-policy) 
+*   [Cannabis Transportation Restrictions](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-transportation-restrictions/172/about-this-policy) 
+*   [Cannabis Use & Possession](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/cannabis-use-possession/170/about-this-policy) 
+*   [Recreational Use of Cannabis: Volume 1](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/recreational-use-of-cannabis-volume-1/104/about-this-policy) 
+*   [Recreational Use of Cannabis: Volume 2](https://alcoholpolicy.niaaa.nih.gov/cannabis-policy-topics/recreational-use-of-cannabis-volume-2/105/about-this-policy) 
+
+Topic Navigation:
+-----------------
+
+ Policies on a Specific Date 
+*   [About This Policy](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/about-this-policy)
+*   [Variables](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/variables)
+*   [Policies on a Specific Date](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28)
+*   [Changes Over Time](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/changes-over-time)
+*   [Timeline of Changes](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/timeline-of-changes)
+*   [Maps & Charts](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/maps-and-charts)
+
+ Data Views and Other Information for this Topic 
+
+*   [About This Policy](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/about-this-policy)
+*   [Variables](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/variables)
+*   [Policies on a Specific Date](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28)
+*   [Changes Over Time](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/changes-over-time)
+*   [Timeline of Changes](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/timeline-of-changes)
+*   [Maps & Charts](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/maps-and-charts)
+
+Policies on a Specific Date: Retail Sales: Bans on Off-Premises Sunday Sales
+============================================================================
+
+How to Use this Page
+--------------------
+
+Click “Filter & Sort” below to display data only for selected states or to sort according to specific variables.
+
+Click “Choose Date(s)” to display policies in effect on a date other than the most recent date available.
+
+Click “Download/Export” to download the policy data to a spreadsheet or CSV file. You have the option to download the data from the displayed table or, to download variables from multiple policy topics to a single spreadsheet, go to the [Download Policy Data page](http://alcoholpolicy.niaaa.nih.gov/policy-topics/download-policy-topic-data).
+
+Use the format buttons - ![Image 3](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/static-media/images/view-style-buttons.png) - to change the display from Table format (this is the default) to Accordion or Cards as desired.
+
+Users are encouraged to refer to the [Instructions](http://alcoholpolicy.niaaa.nih.gov/ajax/view-topic-instructions/28/nojs "View topic instructions") to understand the different display options and other information available. Use the tabs above to select the main display options (Policies on a Specific Date; Policy Changes Over Time; Timeline of Changes) and to access related information (Maps & Charts; Variables definitions; Policy Description and further information).
+
+[View definitions](http://alcoholpolicy.niaaa.nih.gov/ajax/view-topic-column-definitions/28/nojs "View definitions") for each of the column headings.
+
+Data
+----
+
+### Filter and Sort
+
+Filter & Sort
+
+### Filter
+
+By Jurisdiction
+
+- [x] Alabama 
+
+- [x] Alaska 
+
+- [x] Arizona 
+
+- [x] Arkansas 
+
+- [x] California 
+
+- [x] Colorado 
+
+- [x] Connecticut 
+
+- [x] Delaware 
+
+- [x] District of Columbia 
+
+- [x] Florida 
+
+- [x] Georgia 
+
+- [x] Hawaii 
+
+- [x] Idaho 
+
+- [x] Illinois 
+
+- [x] Indiana 
+
+- [x] Iowa 
+
+- [x] Kansas 
+
+- [x] Kentucky 
+
+- [x] Louisiana 
+
+- [x] Maine 
+
+- [x] Maryland 
+
+- [x] Massachusetts 
+
+- [x] Michigan 
+
+- [x] Minnesota 
+
+- [x] Mississippi 
+
+- [x] Missouri 
+
+- [x] Montana 
+
+- [x] Nebraska 
+
+- [x] Nevada 
+
+- [x] New Hampshire 
+
+- [x] New Jersey 
+
+- [x] New Mexico 
+
+- [x] New York 
+
+- [x] North Carolina 
+
+- [x] North Dakota 
+
+- [x] Ohio 
+
+- [x] Oklahoma 
+
+- [x] Oregon 
+
+- [x] Pennsylvania 
+
+- [x] Rhode Island 
+
+- [x] South Carolina 
+
+- [x] South Dakota 
+
+- [x] Tennessee 
+
+- [x] Texas 
+
+- [x] Utah 
+
+- [x] Vermont 
+
+- [x] Virginia 
+
+- [x] Washington 
+
+- [x] West Virginia 
+
+- [x] Wisconsin 
+
+- [x] Wyoming 
+
+- [x] United States 
+
+### Sort
+
+Choose Option 1 
+
+Choose Direction 1 
+
+Choose Option 2 
+
+Choose Direction 2 
+
+Choose Option 3 
+
+Choose Direction 3 
+
+[Clear](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28 "Clear All Filters")
+
+Choose Date(s)
+
+### Search policies as of this date:
+
+Specific Date 
+
+ MM/DD/YYYY (e.g., 07/31/2017) 
+
+[Clear](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28 "Clear All Filters")
+
+Download & Export
+
+### Download & Export
+
+[Excel (.xls)](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/NULL/xls/export "Export Data to: Excel (.xls)")[Excel (.xlsx)](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/NULL/xlsx/export "Export Data to: Excel (.xlsx)")[CSV (.csv)](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28/NULL/csv/export "Export Data to: CSV (.csv)")
+
+Leave this field blank 
+
+### Available Data
+
+![Image 4: Table Format](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/_build/apps/table-list/dist/img/ui-icon--table.65f5346b.svg)![Image 5: Expandable List Format](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/_build/apps/table-list/dist/img/ui-icon--accordions.cb23619c.svg)![Image 6: List View](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/_build/apps/table-list/dist/img/ui-icon--cards.71c9150f.svg)
+
+| Jurisdiction | Postal Code | Policies as of | Ban Repealed | Exceptions | Notes | Citations |
+| --- | --- | --- | --- | --- | --- | --- |
+| Local Option | 3.2 Beer Sales Allowed |
+
+| Jurisdiction |
+| --- |
+
+Test Table| Jurisdiction | Postal Code | Policies as of | Ban Repealed | Exceptions | Notes | Citations |
+| --- | --- | --- | --- | --- | --- | --- |
+| Local Option | 3.2 Beer Sales Allowed |
+| Alabama | AL | 1/1/2025 |  | Yes |  |  | [2 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6931-6930/data-specifc-date/apis-policy-topics/nojs) |
+| Arkansas | AR | 1/1/2025 |  | Yes |  |  | [3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6933-6934-6935/data-specifc-date/apis-policy-topics/nojs) |
+| Colorado | CO | 1/1/2025 | Yes |  |  |  | [4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6953-13124-13158-13123/data-specifc-date/apis-policy-topics/nojs) |
+| Connecticut | CT | 1/1/2025 | Yes |  |  |  | [4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6961-6960-6958-6959/data-specifc-date/apis-policy-topics/nojs) |
+| Delaware | DE | 1/1/2025 | Yes |  |  |  | [3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6955-6957-6956/data-specifc-date/apis-policy-topics/nojs) |
+| Georgia | GA | 1/1/2025 |  | Yes |  |  | [4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6982-6980-6981-6979/data-specifc-date/apis-policy-topics/nojs) |
+| Illinois | IL | 1/1/2025 | Yes |  |  |  | [1 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6936/data-specifc-date/apis-policy-topics/nojs) |
+| Indiana | IN | 1/1/2025 | Yes |  |  |  | [4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/12931-12924-12922-12923/data-specifc-date/apis-policy-topics/nojs) |
+| Kansas | KS | 1/1/2025 |  | Yes |  |  | [5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6966-6963-6962-6964-6965/data-specifc-date/apis-policy-topics/nojs) |
+| Kentucky | KY | 1/1/2025 |  | Yes |  |  | [5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6939-6940-21523-6938-6937/data-specifc-date/apis-policy-topics/nojs) |
+| Massachusetts | MA | 1/1/2025 | Yes |  |  |  | [4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6944-6945-6947-6946/data-specifc-date/apis-policy-topics/nojs) |
+| Minnesota | MN | 1/1/2025 | Yes |  |  |  | [3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6941-6942-6943/data-specifc-date/apis-policy-topics/nojs) |
+| Nebraska | NE | 1/1/2025 |  | Yes |  |  | [8 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6972-6973-6974-6975-6976-6977-6978-6970/data-specifc-date/apis-policy-topics/nojs) |
+| Oklahoma | OK | 1/1/2025 | Yes |  |  |  | [1 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/13214/data-specifc-date/apis-policy-topics/nojs) |
+| Pennsylvania | PA | 1/1/2025 | Yes |  |  | Row Note Hotels and restaurants are allowed to sell malt or brewed beverages on Sundays for consumption off the premises where sold in quantities of not more than 192 fluid ounces. Effective February 7, 2003, Pennsylvania amended its Sunday sales ban to allow for a two-year time period during which "the board shall open up to ten per centum of the total number of Pennsylvania Liquor Stores at its discretion for Sunday sales." See 47 Pa. Cons. Stat. § 3-304. Effective February 7, 2005, this statute was amended to remove the trial period and to authorize the board to open up to 25 percent of the total number of Pennsylvania liquor stores for Sunday sales. Effective September 6, 2005, manufacturers, importing distributors, and distributors were authorized to sell malt or brewed beverages to non-licensed buyers on Sundays. Effective August 8, 2016, Pennsylvania Liquor Stores, including online stores, shall be open on the hours and days that the board deems appropriate. | [10 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6990-6997-7004-6993-7000-6999-6995-7001-7002-6996/data-specifc-date/apis-policy-topics/nojs) |
+| Rhode Island | RI | 1/1/2025 | Yes |  |  |  | [3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/7022-7021-7020/data-specifc-date/apis-policy-topics/nojs) |
+| South Carolina | SC | 1/1/2025 |  | Yes |  |  | [5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/7023-7025-7024-7027-7028/data-specifc-date/apis-policy-topics/nojs) |
+| Tennessee | TN | 1/1/2025 | Yes |  |  |  | [5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/12896-12895-12890-12894-12892/data-specifc-date/apis-policy-topics/nojs) |
+| Utah | UT | 1/1/2025 |  | Yes |  |  | [6 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/17348-17343-17344-17345-17346-17347/data-specifc-date/apis-policy-topics/nojs) |
+| Virginia | VA | 1/1/2025 | Yes |  |  | Row Note Beginning on July 1, 2004, certain government stores, as determined by the Board, are allowed to be open on Sunday for the sale of alcoholic beverages. Between July 1, 2004 and June 30, 2019 these sales could begin after 1:00 p.m. Beginning July 1, 2019, these sales may begin after 10:00 a.m. | [5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6969-14315-14316-6968-6967/data-specifc-date/apis-policy-topics/nojs) |
+
+| Jurisdiction |
+| --- |
+| Alabama |
+| Arkansas |
+| Colorado |
+| Connecticut |
+| Delaware |
+| Georgia |
+| Illinois |
+| Indiana |
+| Kansas |
+| Kentucky |
+| Massachusetts |
+| Minnesota |
+| Nebraska |
+| Oklahoma |
+| Pennsylvania |
+| Rhode Island |
+| South Carolina |
+| Tennessee |
+| Utah |
+| Virginia |
+
+#### Jurisdiction (20)
+
+ Expand All 
+
+*   
+##### Alabama
+
+    *   **Jurisdiction**Alabama   
+    *   **Postal Code**AL  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[2 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6931-6930/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Arkansas
+
+    *   **Jurisdiction**Arkansas   
+    *   **Postal Code**AR  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6933-6934-6935/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Colorado
+
+    *   **Jurisdiction**Colorado   
+    *   **Postal Code**CO  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6953-13124-13158-13123/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Connecticut
+
+    *   **Jurisdiction**Connecticut   
+    *   **Postal Code**CT  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6961-6960-6958-6959/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Delaware
+
+    *   **Jurisdiction**Delaware   
+    *   **Postal Code**DE  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6955-6957-6956/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Georgia
+
+    *   **Jurisdiction**Georgia   
+    *   **Postal Code**GA  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6982-6980-6981-6979/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Illinois
+
+    *   **Jurisdiction**Illinois   
+    *   **Postal Code**IL  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[1 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6936/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Indiana
+
+    *   **Jurisdiction**Indiana   
+    *   **Postal Code**IN  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/12931-12924-12922-12923/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Kansas
+
+    *   **Jurisdiction**Kansas   
+    *   **Postal Code**KS  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6966-6963-6962-6964-6965/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Kentucky
+
+    *   **Jurisdiction**Kentucky   
+    *   **Postal Code**KY  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6939-6940-21523-6938-6937/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Massachusetts
+
+    *   **Jurisdiction**Massachusetts   
+    *   **Postal Code**MA  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6944-6945-6947-6946/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Minnesota
+
+    *   **Jurisdiction**Minnesota   
+    *   **Postal Code**MN  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6941-6942-6943/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Nebraska
+
+    *   **Jurisdiction**Nebraska   
+    *   **Postal Code**NE  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[8 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6972-6973-6974-6975-6976-6977-6978-6970/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Oklahoma
+
+    *   **Jurisdiction**Oklahoma   
+    *   **Postal Code**OK  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[1 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/13214/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Pennsylvania
+
+    *   **Jurisdiction**Pennsylvania   
+    *   **Postal Code**PA  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**Row Note Hotels and restaurants are allowed to sell malt or brewed beverages on Sundays for consumption off the premises where sold in quantities of not more than 192 fluid ounces. Effective February 7, 2003, Pennsylvania amended its Sunday sales ban to allow for a two-year time period during which "the board shall open up to ten per centum of the total number of Pennsylvania Liquor Stores at its discretion for Sunday sales." See 47 Pa. Cons. Stat. § 3-304. Effective February 7, 2005, this statute was amended to remove the trial period and to authorize the board to open up to 25 percent of the total number of Pennsylvania liquor stores for Sunday sales. Effective September 6, 2005, manufacturers, importing distributors, and distributors were authorized to sell malt or brewed beverages to non-licensed buyers on Sundays. Effective August 8, 2016, Pennsylvania Liquor Stores, including online stores, shall be open on the hours and days that the board deems appropriate.       
+    *   **Citations**[10 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6990-6997-7004-6993-7000-6999-6995-7001-7002-6996/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Rhode Island
+
+    *   **Jurisdiction**Rhode Island   
+    *   **Postal Code**RI  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/7022-7021-7020/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### South Carolina
+
+    *   **Jurisdiction**South Carolina   
+    *   **Postal Code**SC  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/7023-7025-7024-7027-7028/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Tennessee
+
+    *   **Jurisdiction**Tennessee   
+    *   **Postal Code**TN  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/12896-12895-12890-12894-12892/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Utah
+
+    *   **Jurisdiction**Utah   
+    *   **Postal Code**UT  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[6 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/17348-17343-17344-17345-17346-17347/data-specifc-date/apis-policy-topics/nojs)  
+
+*   
+##### Virginia
+
+    *   **Jurisdiction**Virginia   
+    *   **Postal Code**VA  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**Row Note Beginning on July 1, 2004, certain government stores, as determined by the Board, are allowed to be open on Sunday for the sale of alcoholic beverages. Between July 1, 2004 and June 30, 2019 these sales could begin after 1:00 p.m. Beginning July 1, 2019, these sales may begin after 10:00 a.m.       
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6969-14315-14316-6968-6967/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Alabama 
+    *   **Postal Code**AL  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[2 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6931-6930/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Arkansas 
+    *   **Postal Code**AR  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6933-6934-6935/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Colorado 
+    *   **Postal Code**CO  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6953-13124-13158-13123/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Connecticut 
+    *   **Postal Code**CT  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6961-6960-6958-6959/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Delaware 
+    *   **Postal Code**DE  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6955-6957-6956/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Georgia 
+    *   **Postal Code**GA  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6982-6980-6981-6979/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Illinois 
+    *   **Postal Code**IL  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[1 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6936/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Indiana 
+    *   **Postal Code**IN  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/12931-12924-12922-12923/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Kansas 
+    *   **Postal Code**KS  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6966-6963-6962-6964-6965/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Kentucky 
+    *   **Postal Code**KY  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6939-6940-21523-6938-6937/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Massachusetts 
+    *   **Postal Code**MA  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[4 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6944-6945-6947-6946/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Minnesota 
+    *   **Postal Code**MN  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6941-6942-6943/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Nebraska 
+    *   **Postal Code**NE  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[8 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6972-6973-6974-6975-6976-6977-6978-6970/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Oklahoma 
+    *   **Postal Code**OK  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[1 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/13214/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Pennsylvania 
+    *   **Postal Code**PA  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**Row Note Hotels and restaurants are allowed to sell malt or brewed beverages on Sundays for consumption off the premises where sold in quantities of not more than 192 fluid ounces. Effective February 7, 2003, Pennsylvania amended its Sunday sales ban to allow for a two-year time period during which "the board shall open up to ten per centum of the total number of Pennsylvania Liquor Stores at its discretion for Sunday sales." See 47 Pa. Cons. Stat. § 3-304. Effective February 7, 2005, this statute was amended to remove the trial period and to authorize the board to open up to 25 percent of the total number of Pennsylvania liquor stores for Sunday sales. Effective September 6, 2005, manufacturers, importing distributors, and distributors were authorized to sell malt or brewed beverages to non-licensed buyers on Sundays. Effective August 8, 2016, Pennsylvania Liquor Stores, including online stores, shall be open on the hours and days that the board deems appropriate.       
+    *   **Citations**[10 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6990-6997-7004-6993-7000-6999-6995-7001-7002-6996/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Rhode Island 
+    *   **Postal Code**RI  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[3 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/7022-7021-7020/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### South Carolina 
+    *   **Postal Code**SC  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/7023-7025-7024-7027-7028/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Tennessee 
+    *   **Postal Code**TN  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/12896-12895-12890-12894-12892/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Utah 
+    *   **Postal Code**UT  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**  
+    *   **Exceptions** 
+        *   **Local Option**Yes  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**  
+    *   **Citations**[6 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/17348-17343-17344-17345-17346-17347/data-specifc-date/apis-policy-topics/nojs)  
+
+*       *   #### Virginia 
+    *   **Postal Code**VA  
+    *   **Policies as of**1/1/2025  
+    *   **Ban Repealed**Yes  
+    *   **Exceptions** 
+        *   **Local Option**  
+        *   **3.2 Beer Sales Allowed**  
+
+    *   **Notes**Row Note Beginning on July 1, 2004, certain government stores, as determined by the Board, are allowed to be open on Sunday for the sale of alcoholic beverages. Between July 1, 2004 and June 30, 2019 these sales could begin after 1:00 p.m. Beginning July 1, 2019, these sales may begin after 10:00 a.m.       
+    *   **Citations**[5 Citations](http://alcoholpolicy.niaaa.nih.gov/topic-citations/6969-14315-14316-6968-6967/data-specifc-date/apis-policy-topics/nojs)  
+
+**Links to supporting federal agencies:**
+*   [![Image 7: NIH - National Institute on Alcohol Abuse and Alcoholism](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/images/footer/logo-niaaa.png)](https://niaaa.nih.gov/ "NIH - National Institute on Alcohol Abuse and Alcoholism")
+*   [![Image 8: NIH - National Institutes of Health](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/images/footer/logo-nih.png)](https://www.nih.gov/ "NIH - National Institutes of Health")
+*   [![Image 9: Department of Health & Human Services](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/images/footer/logo-health.png)](https://www.hhs.gov/ "Department of Health &amp; Human Services")
+*   [![Image 10: USA.gov](http://alcoholpolicy.niaaa.nih.gov/themes/custom/is_2017/images/footer/logo-usa.png)](https://usa.gov/ "USA.gov")
+
+*   [Accessibility](https://www.niaaa.nih.gov/accessibility)
+*   [Privacy](http://alcoholpolicy.niaaa.nih.gov/privacy)
+*   [FOIA](https://www.niaaa.nih.gov/foia)
+*   [Vulnerability Disclosure Policy](https://www.hhs.gov/vulnerability-disclosure-policy/index.html)
+*   [Get Adobe Acrobat Reader](https://get.adobe.com/reader/)
+
+[Back to Top](http://alcoholpolicy.niaaa.nih.gov/apis-policy-topics/bans-on-off-premises-sunday-sales/28#main-content)

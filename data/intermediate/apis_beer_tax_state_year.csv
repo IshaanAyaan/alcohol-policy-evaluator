@@ -1,0 +1,1072 @@
+state_abbrev,state_name,year,beer_tax_usd_per_gallon
+AL,Alabama,2003,1.05
+AL,Alabama,2004,1.05
+AL,Alabama,2005,1.05
+AL,Alabama,2006,1.05
+AL,Alabama,2007,1.05
+AL,Alabama,2008,1.05
+AL,Alabama,2009,1.05
+AL,Alabama,2010,1.05
+AL,Alabama,2011,1.05
+AL,Alabama,2012,1.05
+AL,Alabama,2013,1.05
+AL,Alabama,2014,1.05
+AL,Alabama,2015,1.05
+AL,Alabama,2016,1.05
+AL,Alabama,2017,1.05
+AL,Alabama,2018,1.05
+AL,Alabama,2019,1.05
+AL,Alabama,2020,1.05
+AL,Alabama,2021,1.05
+AL,Alabama,2022,1.05
+AL,Alabama,2023,1.05
+AK,Alaska,2003,1.07
+AK,Alaska,2004,1.07
+AK,Alaska,2005,1.07
+AK,Alaska,2006,1.07
+AK,Alaska,2007,1.07
+AK,Alaska,2008,1.07
+AK,Alaska,2009,1.07
+AK,Alaska,2010,1.07
+AK,Alaska,2011,1.07
+AK,Alaska,2012,1.07
+AK,Alaska,2013,1.07
+AK,Alaska,2014,1.07
+AK,Alaska,2015,1.07
+AK,Alaska,2016,1.07
+AK,Alaska,2017,1.07
+AK,Alaska,2018,1.07
+AK,Alaska,2019,1.07
+AK,Alaska,2020,1.07
+AK,Alaska,2021,1.07
+AK,Alaska,2022,1.07
+AK,Alaska,2023,1.07
+AZ,Arizona,2003,0.16
+AZ,Arizona,2004,0.16
+AZ,Arizona,2005,0.16
+AZ,Arizona,2006,0.16
+AZ,Arizona,2007,0.16
+AZ,Arizona,2008,0.16
+AZ,Arizona,2009,0.16
+AZ,Arizona,2010,0.16
+AZ,Arizona,2011,0.16
+AZ,Arizona,2012,0.16
+AZ,Arizona,2013,0.16
+AZ,Arizona,2014,0.16
+AZ,Arizona,2015,0.16
+AZ,Arizona,2016,0.16
+AZ,Arizona,2017,0.16
+AZ,Arizona,2018,0.16
+AZ,Arizona,2019,0.16
+AZ,Arizona,2020,0.16
+AZ,Arizona,2021,0.16
+AZ,Arizona,2022,0.16
+AZ,Arizona,2023,0.16
+AR,Arkansas,2003,0.24
+AR,Arkansas,2004,0.24
+AR,Arkansas,2005,0.24
+AR,Arkansas,2006,0.24
+AR,Arkansas,2007,0.24
+AR,Arkansas,2008,0.24
+AR,Arkansas,2009,0.24
+AR,Arkansas,2010,0.24
+AR,Arkansas,2011,0.24
+AR,Arkansas,2012,0.24
+AR,Arkansas,2013,0.24
+AR,Arkansas,2014,0.24
+AR,Arkansas,2015,0.24
+AR,Arkansas,2016,0.24
+AR,Arkansas,2017,0.24
+AR,Arkansas,2018,0.24
+AR,Arkansas,2019,0.24
+AR,Arkansas,2020,0.24
+AR,Arkansas,2021,0.24
+AR,Arkansas,2022,0.24
+AR,Arkansas,2023,0.24
+CA,California,2003,0.2
+CA,California,2004,0.2
+CA,California,2005,0.2
+CA,California,2006,0.2
+CA,California,2007,0.2
+CA,California,2008,0.2
+CA,California,2009,0.2
+CA,California,2010,0.2
+CA,California,2011,0.2
+CA,California,2012,0.2
+CA,California,2013,0.2
+CA,California,2014,0.2
+CA,California,2015,0.2
+CA,California,2016,0.2
+CA,California,2017,0.2
+CA,California,2018,0.2
+CA,California,2019,0.2
+CA,California,2020,0.2
+CA,California,2021,0.2
+CA,California,2022,0.2
+CA,California,2023,0.2
+CO,Colorado,2003,0.08
+CO,Colorado,2004,0.08
+CO,Colorado,2005,0.08
+CO,Colorado,2006,0.08
+CO,Colorado,2007,0.08
+CO,Colorado,2008,0.08
+CO,Colorado,2009,0.08
+CO,Colorado,2010,0.08
+CO,Colorado,2011,0.08
+CO,Colorado,2012,0.08
+CO,Colorado,2013,0.08
+CO,Colorado,2014,0.08
+CO,Colorado,2015,0.08
+CO,Colorado,2016,0.08
+CO,Colorado,2017,0.08
+CO,Colorado,2018,0.08
+CO,Colorado,2019,0.08
+CO,Colorado,2020,0.08
+CO,Colorado,2021,0.08
+CO,Colorado,2022,0.08
+CO,Colorado,2023,0.08
+CT,Connecticut,2003,0.2
+CT,Connecticut,2004,0.2
+CT,Connecticut,2005,0.2
+CT,Connecticut,2006,0.2
+CT,Connecticut,2007,0.2
+CT,Connecticut,2008,0.2
+CT,Connecticut,2009,0.2
+CT,Connecticut,2010,0.2
+CT,Connecticut,2011,0.2
+CT,Connecticut,2012,0.24
+CT,Connecticut,2013,0.24
+CT,Connecticut,2014,0.24
+CT,Connecticut,2015,0.24
+CT,Connecticut,2016,0.24
+CT,Connecticut,2017,0.24
+CT,Connecticut,2018,0.24
+CT,Connecticut,2019,0.24
+CT,Connecticut,2020,0.24
+CT,Connecticut,2021,0.24
+CT,Connecticut,2022,0.24
+CT,Connecticut,2023,0.24
+DE,Delaware,2003,0.16
+DE,Delaware,2004,0.16
+DE,Delaware,2005,0.16
+DE,Delaware,2006,0.16
+DE,Delaware,2007,0.16
+DE,Delaware,2008,0.16
+DE,Delaware,2009,0.16
+DE,Delaware,2010,0.16
+DE,Delaware,2011,0.16
+DE,Delaware,2012,0.16
+DE,Delaware,2013,0.16
+DE,Delaware,2014,0.16
+DE,Delaware,2015,0.16
+DE,Delaware,2016,0.16
+DE,Delaware,2017,0.16
+DE,Delaware,2018,0.26
+DE,Delaware,2019,0.26
+DE,Delaware,2020,0.26
+DE,Delaware,2021,0.26
+DE,Delaware,2022,0.26
+DE,Delaware,2023,0.26
+DC,District of Columbia,2003,0.09
+DC,District of Columbia,2004,0.09
+DC,District of Columbia,2005,0.09
+DC,District of Columbia,2006,0.09
+DC,District of Columbia,2007,0.09
+DC,District of Columbia,2008,0.09
+DC,District of Columbia,2009,0.09
+DC,District of Columbia,2010,0.09
+DC,District of Columbia,2011,0.09
+DC,District of Columbia,2012,0.09
+DC,District of Columbia,2013,0.09
+DC,District of Columbia,2014,0.09
+DC,District of Columbia,2015,0.09
+DC,District of Columbia,2016,0.09
+DC,District of Columbia,2017,0.09
+DC,District of Columbia,2018,0.09
+DC,District of Columbia,2019,0.09
+DC,District of Columbia,2020,0.09
+DC,District of Columbia,2021,0.09
+DC,District of Columbia,2022,0.09
+DC,District of Columbia,2023,0.09
+FL,Florida,2003,0.48
+FL,Florida,2004,0.48
+FL,Florida,2005,0.48
+FL,Florida,2006,0.48
+FL,Florida,2007,0.48
+FL,Florida,2008,0.48
+FL,Florida,2009,0.48
+FL,Florida,2010,0.48
+FL,Florida,2011,0.48
+FL,Florida,2012,0.48
+FL,Florida,2013,0.48
+FL,Florida,2014,0.48
+FL,Florida,2015,0.48
+FL,Florida,2016,0.48
+FL,Florida,2017,0.48
+FL,Florida,2018,0.48
+FL,Florida,2019,0.48
+FL,Florida,2020,0.48
+FL,Florida,2021,0.48
+FL,Florida,2022,0.48
+FL,Florida,2023,0.48
+GA,Georgia,2003,1.01
+GA,Georgia,2004,1.01
+GA,Georgia,2005,1.01
+GA,Georgia,2006,1.01
+GA,Georgia,2007,1.01
+GA,Georgia,2008,1.01
+GA,Georgia,2009,1.01
+GA,Georgia,2010,1.01
+GA,Georgia,2011,1.01
+GA,Georgia,2012,1.01
+GA,Georgia,2013,1.01
+GA,Georgia,2014,1.01
+GA,Georgia,2015,1.01
+GA,Georgia,2016,1.01
+GA,Georgia,2017,1.01
+GA,Georgia,2018,1.01
+GA,Georgia,2019,1.01
+GA,Georgia,2020,1.01
+GA,Georgia,2021,1.01
+GA,Georgia,2022,1.01
+GA,Georgia,2023,1.01
+HI,Hawaii,2003,0.93
+HI,Hawaii,2004,0.93
+HI,Hawaii,2005,0.93
+HI,Hawaii,2006,0.93
+HI,Hawaii,2007,0.93
+HI,Hawaii,2008,0.93
+HI,Hawaii,2009,0.93
+HI,Hawaii,2010,0.93
+HI,Hawaii,2011,0.93
+HI,Hawaii,2012,0.93
+HI,Hawaii,2013,0.93
+HI,Hawaii,2014,0.93
+HI,Hawaii,2015,0.93
+HI,Hawaii,2016,0.93
+HI,Hawaii,2017,0.93
+HI,Hawaii,2018,0.93
+HI,Hawaii,2019,0.93
+HI,Hawaii,2020,0.93
+HI,Hawaii,2021,0.93
+HI,Hawaii,2022,0.93
+HI,Hawaii,2023,0.93
+ID,Idaho,2003,0.15
+ID,Idaho,2004,0.15
+ID,Idaho,2005,0.15
+ID,Idaho,2006,0.15
+ID,Idaho,2007,0.15
+ID,Idaho,2008,0.15
+ID,Idaho,2009,0.15
+ID,Idaho,2010,0.15
+ID,Idaho,2011,0.15
+ID,Idaho,2012,0.15
+ID,Idaho,2013,0.15
+ID,Idaho,2014,0.15
+ID,Idaho,2015,0.15
+ID,Idaho,2016,0.15
+ID,Idaho,2017,0.15
+ID,Idaho,2018,0.15
+ID,Idaho,2019,0.15
+ID,Idaho,2020,0.15
+ID,Idaho,2021,0.15
+ID,Idaho,2022,0.15
+ID,Idaho,2023,0.15
+IL,Illinois,2003,0.19
+IL,Illinois,2004,0.19
+IL,Illinois,2005,0.19
+IL,Illinois,2006,0.19
+IL,Illinois,2007,0.19
+IL,Illinois,2008,0.19
+IL,Illinois,2009,0.19
+IL,Illinois,2010,0.23
+IL,Illinois,2011,0.23
+IL,Illinois,2012,0.23
+IL,Illinois,2013,0.23
+IL,Illinois,2014,0.23
+IL,Illinois,2015,0.23
+IL,Illinois,2016,0.23
+IL,Illinois,2017,0.23
+IL,Illinois,2018,0.23
+IL,Illinois,2019,0.23
+IL,Illinois,2020,0.23
+IL,Illinois,2021,0.23
+IL,Illinois,2022,0.23
+IL,Illinois,2023,0.23
+IN,Indiana,2003,0.12
+IN,Indiana,2004,0.12
+IN,Indiana,2005,0.12
+IN,Indiana,2006,0.12
+IN,Indiana,2007,0.12
+IN,Indiana,2008,0.12
+IN,Indiana,2009,0.12
+IN,Indiana,2010,0.12
+IN,Indiana,2011,0.12
+IN,Indiana,2012,0.12
+IN,Indiana,2013,0.12
+IN,Indiana,2014,0.12
+IN,Indiana,2015,0.12
+IN,Indiana,2016,0.12
+IN,Indiana,2017,0.12
+IN,Indiana,2018,0.12
+IN,Indiana,2019,0.12
+IN,Indiana,2020,0.12
+IN,Indiana,2021,0.12
+IN,Indiana,2022,0.12
+IN,Indiana,2023,0.12
+IA,Iowa,2003,0.19
+IA,Iowa,2004,0.19
+IA,Iowa,2005,0.19
+IA,Iowa,2006,0.19
+IA,Iowa,2007,0.19
+IA,Iowa,2008,0.19
+IA,Iowa,2009,0.19
+IA,Iowa,2010,0.19
+IA,Iowa,2011,0.19
+IA,Iowa,2012,0.19
+IA,Iowa,2013,0.19
+IA,Iowa,2014,0.19
+IA,Iowa,2015,0.19
+IA,Iowa,2016,0.19
+IA,Iowa,2017,0.19
+IA,Iowa,2018,0.19
+IA,Iowa,2019,0.19
+IA,Iowa,2020,0.19
+IA,Iowa,2021,0.19
+IA,Iowa,2022,0.19
+IA,Iowa,2023,0.19
+KS,Kansas,2003,0.18
+KS,Kansas,2004,0.18
+KS,Kansas,2005,0.18
+KS,Kansas,2006,0.18
+KS,Kansas,2007,0.18
+KS,Kansas,2008,0.18
+KS,Kansas,2009,0.18
+KS,Kansas,2010,0.18
+KS,Kansas,2011,0.18
+KS,Kansas,2012,0.18
+KS,Kansas,2013,0.18
+KS,Kansas,2014,0.18
+KS,Kansas,2015,0.18
+KS,Kansas,2016,0.18
+KS,Kansas,2017,0.18
+KS,Kansas,2018,0.18
+KS,Kansas,2019,0.18
+KS,Kansas,2020,0.18
+KS,Kansas,2021,0.18
+KS,Kansas,2022,0.18
+KS,Kansas,2023,0.18
+KY,Kentucky,2003,0.08
+KY,Kentucky,2004,0.08
+KY,Kentucky,2005,0.08
+KY,Kentucky,2006,0.08
+KY,Kentucky,2007,0.08
+KY,Kentucky,2008,0.08
+KY,Kentucky,2009,0.08
+KY,Kentucky,2010,0.08
+KY,Kentucky,2011,0.08
+KY,Kentucky,2012,0.08
+KY,Kentucky,2013,0.08
+KY,Kentucky,2014,0.08
+KY,Kentucky,2015,0.08
+KY,Kentucky,2016,0.08
+KY,Kentucky,2017,0.08
+KY,Kentucky,2018,0.08
+KY,Kentucky,2019,0.08
+KY,Kentucky,2020,0.08
+KY,Kentucky,2021,0.08
+KY,Kentucky,2022,0.08
+KY,Kentucky,2023,0.08
+LA,Louisiana,2003,0.32
+LA,Louisiana,2004,0.32
+LA,Louisiana,2005,0.32
+LA,Louisiana,2006,0.32
+LA,Louisiana,2007,0.32
+LA,Louisiana,2008,0.32
+LA,Louisiana,2009,0.32
+LA,Louisiana,2010,0.32
+LA,Louisiana,2011,0.32
+LA,Louisiana,2012,0.32
+LA,Louisiana,2013,0.32
+LA,Louisiana,2014,0.32
+LA,Louisiana,2015,0.32
+LA,Louisiana,2016,0.32
+LA,Louisiana,2017,0.4
+LA,Louisiana,2018,0.4
+LA,Louisiana,2019,0.4
+LA,Louisiana,2020,0.4
+LA,Louisiana,2021,0.4
+LA,Louisiana,2022,0.4
+LA,Louisiana,2023,0.4
+ME,Maine,2003,0.35
+ME,Maine,2004,0.35
+ME,Maine,2005,0.35
+ME,Maine,2006,0.35
+ME,Maine,2007,0.35
+ME,Maine,2008,0.35
+ME,Maine,2009,0.35
+ME,Maine,2010,0.35
+ME,Maine,2011,0.35
+ME,Maine,2012,0.35
+ME,Maine,2013,0.35
+ME,Maine,2014,0.35
+ME,Maine,2015,0.35
+ME,Maine,2016,0.35
+ME,Maine,2017,0.35
+ME,Maine,2018,0.35
+ME,Maine,2019,0.35
+ME,Maine,2020,0.35
+ME,Maine,2021,0.35
+ME,Maine,2022,0.35
+ME,Maine,2023,0.35
+MD,Maryland,2003,0.09
+MD,Maryland,2004,0.09
+MD,Maryland,2005,0.09
+MD,Maryland,2006,0.09
+MD,Maryland,2007,0.09
+MD,Maryland,2008,0.09
+MD,Maryland,2009,0.09
+MD,Maryland,2010,0.09
+MD,Maryland,2011,0.09
+MD,Maryland,2012,0.09
+MD,Maryland,2013,0.09
+MD,Maryland,2014,0.09
+MD,Maryland,2015,0.09
+MD,Maryland,2016,0.09
+MD,Maryland,2017,0.09
+MD,Maryland,2018,0.09
+MD,Maryland,2019,0.09
+MD,Maryland,2020,0.09
+MD,Maryland,2021,0.09
+MD,Maryland,2022,0.09
+MD,Maryland,2023,0.09
+MA,Massachusetts,2003,0.11
+MA,Massachusetts,2004,0.11
+MA,Massachusetts,2005,0.11
+MA,Massachusetts,2006,0.11
+MA,Massachusetts,2007,0.11
+MA,Massachusetts,2008,0.11
+MA,Massachusetts,2009,0.11
+MA,Massachusetts,2010,0.11
+MA,Massachusetts,2011,0.11
+MA,Massachusetts,2012,0.11
+MA,Massachusetts,2013,0.11
+MA,Massachusetts,2014,0.11
+MA,Massachusetts,2015,0.11
+MA,Massachusetts,2016,0.11
+MA,Massachusetts,2017,0.11
+MA,Massachusetts,2018,0.11
+MA,Massachusetts,2019,0.11
+MA,Massachusetts,2020,0.11
+MA,Massachusetts,2021,0.11
+MA,Massachusetts,2022,0.11
+MA,Massachusetts,2023,0.11
+MI,Michigan,2003,0.2
+MI,Michigan,2004,0.2
+MI,Michigan,2005,0.2
+MI,Michigan,2006,0.2
+MI,Michigan,2007,0.2
+MI,Michigan,2008,0.2
+MI,Michigan,2009,0.2
+MI,Michigan,2010,0.2
+MI,Michigan,2011,0.2
+MI,Michigan,2012,0.2
+MI,Michigan,2013,0.2
+MI,Michigan,2014,0.2
+MI,Michigan,2015,0.2
+MI,Michigan,2016,0.2
+MI,Michigan,2017,0.2
+MI,Michigan,2018,0.2
+MI,Michigan,2019,0.2
+MI,Michigan,2020,0.2
+MI,Michigan,2021,0.2
+MI,Michigan,2022,0.2
+MI,Michigan,2023,0.2
+MN,Minnesota,2003,0.15
+MN,Minnesota,2004,0.15
+MN,Minnesota,2005,0.15
+MN,Minnesota,2006,0.15
+MN,Minnesota,2007,0.15
+MN,Minnesota,2008,0.15
+MN,Minnesota,2009,0.15
+MN,Minnesota,2010,0.15
+MN,Minnesota,2011,0.15
+MN,Minnesota,2012,0.15
+MN,Minnesota,2013,0.15
+MN,Minnesota,2014,0.15
+MN,Minnesota,2015,0.15
+MN,Minnesota,2016,0.15
+MN,Minnesota,2017,0.15
+MN,Minnesota,2018,0.15
+MN,Minnesota,2019,0.15
+MN,Minnesota,2020,0.15
+MN,Minnesota,2021,0.15
+MN,Minnesota,2022,0.15
+MN,Minnesota,2023,0.15
+MS,Mississippi,2003,0.43
+MS,Mississippi,2004,0.43
+MS,Mississippi,2005,0.43
+MS,Mississippi,2006,0.43
+MS,Mississippi,2007,0.43
+MS,Mississippi,2008,0.43
+MS,Mississippi,2009,0.43
+MS,Mississippi,2010,0.43
+MS,Mississippi,2011,0.43
+MS,Mississippi,2012,0.43
+MS,Mississippi,2013,0.43
+MS,Mississippi,2014,0.43
+MS,Mississippi,2015,0.43
+MS,Mississippi,2016,0.43
+MS,Mississippi,2017,0.43
+MS,Mississippi,2018,0.43
+MS,Mississippi,2019,0.43
+MS,Mississippi,2020,0.43
+MS,Mississippi,2021,0.43
+MS,Mississippi,2022,0.43
+MS,Mississippi,2023,0.43
+MO,Missouri,2003,0.06
+MO,Missouri,2004,0.06
+MO,Missouri,2005,0.06
+MO,Missouri,2006,0.06
+MO,Missouri,2007,0.06
+MO,Missouri,2008,0.06
+MO,Missouri,2009,0.06
+MO,Missouri,2010,0.06
+MO,Missouri,2011,0.06
+MO,Missouri,2012,0.06
+MO,Missouri,2013,0.06
+MO,Missouri,2014,0.06
+MO,Missouri,2015,0.06
+MO,Missouri,2016,0.06
+MO,Missouri,2017,0.06
+MO,Missouri,2018,0.06
+MO,Missouri,2019,0.06
+MO,Missouri,2020,0.06
+MO,Missouri,2021,0.06
+MO,Missouri,2022,0.06
+MO,Missouri,2023,0.06
+MT,Montana,2003,0.14
+MT,Montana,2004,0.14
+MT,Montana,2005,0.14
+MT,Montana,2006,0.14
+MT,Montana,2007,0.14
+MT,Montana,2008,0.14
+MT,Montana,2009,0.14
+MT,Montana,2010,0.14
+MT,Montana,2011,0.14
+MT,Montana,2012,0.14
+MT,Montana,2013,0.14
+MT,Montana,2014,0.14
+MT,Montana,2015,0.14
+MT,Montana,2016,0.14
+MT,Montana,2017,0.14
+MT,Montana,2018,0.14
+MT,Montana,2019,0.14
+MT,Montana,2020,0.14
+MT,Montana,2021,0.14
+MT,Montana,2022,0.14
+MT,Montana,2023,0.14
+NE,Nebraska,2003,0.23
+NE,Nebraska,2004,0.31
+NE,Nebraska,2005,0.31
+NE,Nebraska,2006,0.31
+NE,Nebraska,2007,0.31
+NE,Nebraska,2008,0.31
+NE,Nebraska,2009,0.31
+NE,Nebraska,2010,0.31
+NE,Nebraska,2011,0.31
+NE,Nebraska,2012,0.31
+NE,Nebraska,2013,0.31
+NE,Nebraska,2014,0.31
+NE,Nebraska,2015,0.31
+NE,Nebraska,2016,0.31
+NE,Nebraska,2017,0.31
+NE,Nebraska,2018,0.31
+NE,Nebraska,2019,0.31
+NE,Nebraska,2020,0.31
+NE,Nebraska,2021,0.31
+NE,Nebraska,2022,0.31
+NE,Nebraska,2023,0.31
+NV,Nevada,2003,0.09
+NV,Nevada,2004,0.16
+NV,Nevada,2005,0.16
+NV,Nevada,2006,0.16
+NV,Nevada,2007,0.16
+NV,Nevada,2008,0.16
+NV,Nevada,2009,0.16
+NV,Nevada,2010,0.16
+NV,Nevada,2011,0.16
+NV,Nevada,2012,0.16
+NV,Nevada,2013,0.16
+NV,Nevada,2014,0.16
+NV,Nevada,2015,0.16
+NV,Nevada,2016,0.16
+NV,Nevada,2017,0.16
+NV,Nevada,2018,0.16
+NV,Nevada,2019,0.16
+NV,Nevada,2020,0.16
+NV,Nevada,2021,0.16
+NV,Nevada,2022,0.16
+NV,Nevada,2023,0.16
+NH,New Hampshire,2003,0.3
+NH,New Hampshire,2004,0.3
+NH,New Hampshire,2005,0.3
+NH,New Hampshire,2006,0.3
+NH,New Hampshire,2007,0.3
+NH,New Hampshire,2008,0.3
+NH,New Hampshire,2009,0.3
+NH,New Hampshire,2010,0.3
+NH,New Hampshire,2011,0.3
+NH,New Hampshire,2012,0.3
+NH,New Hampshire,2013,0.3
+NH,New Hampshire,2014,0.3
+NH,New Hampshire,2015,0.3
+NH,New Hampshire,2016,0.3
+NH,New Hampshire,2017,0.3
+NH,New Hampshire,2018,0.3
+NH,New Hampshire,2019,0.3
+NH,New Hampshire,2020,0.3
+NH,New Hampshire,2021,0.3
+NH,New Hampshire,2022,0.3
+NH,New Hampshire,2023,0.3
+NJ,New Jersey,2003,0.12
+NJ,New Jersey,2004,0.12
+NJ,New Jersey,2005,0.12
+NJ,New Jersey,2006,0.12
+NJ,New Jersey,2007,0.12
+NJ,New Jersey,2008,0.12
+NJ,New Jersey,2009,0.12
+NJ,New Jersey,2010,0.12
+NJ,New Jersey,2011,0.12
+NJ,New Jersey,2012,0.12
+NJ,New Jersey,2013,0.12
+NJ,New Jersey,2014,0.12
+NJ,New Jersey,2015,0.12
+NJ,New Jersey,2016,0.12
+NJ,New Jersey,2017,0.12
+NJ,New Jersey,2018,0.12
+NJ,New Jersey,2019,0.12
+NJ,New Jersey,2020,0.12
+NJ,New Jersey,2021,0.12
+NJ,New Jersey,2022,0.12
+NJ,New Jersey,2023,0.12
+NM,New Mexico,2003,0.41
+NM,New Mexico,2004,0.41
+NM,New Mexico,2005,0.41
+NM,New Mexico,2006,0.41
+NM,New Mexico,2007,0.41
+NM,New Mexico,2008,0.41
+NM,New Mexico,2009,0.41
+NM,New Mexico,2010,0.41
+NM,New Mexico,2011,0.41
+NM,New Mexico,2012,0.41
+NM,New Mexico,2013,0.41
+NM,New Mexico,2014,0.41
+NM,New Mexico,2015,0.41
+NM,New Mexico,2016,0.41
+NM,New Mexico,2017,0.41
+NM,New Mexico,2018,0.41
+NM,New Mexico,2019,0.41
+NM,New Mexico,2020,0.41
+NM,New Mexico,2021,0.41
+NM,New Mexico,2022,0.41
+NM,New Mexico,2023,0.41
+NY,New York,2003,0.13
+NY,New York,2004,0.11
+NY,New York,2005,0.11
+NY,New York,2006,0.11
+NY,New York,2007,0.11
+NY,New York,2008,0.11
+NY,New York,2009,0.11
+NY,New York,2010,0.14
+NY,New York,2011,0.14
+NY,New York,2012,0.14
+NY,New York,2013,0.14
+NY,New York,2014,0.14
+NY,New York,2015,0.14
+NY,New York,2016,0.14
+NY,New York,2017,0.14
+NY,New York,2018,0.14
+NY,New York,2019,0.14
+NY,New York,2020,0.14
+NY,New York,2021,0.14
+NY,New York,2022,0.14
+NY,New York,2023,0.14
+NC,North Carolina,2003,0.53
+NC,North Carolina,2004,0.53
+NC,North Carolina,2005,0.53
+NC,North Carolina,2006,0.53
+NC,North Carolina,2007,0.53
+NC,North Carolina,2008,0.53
+NC,North Carolina,2009,0.53
+NC,North Carolina,2010,0.62
+NC,North Carolina,2011,0.62
+NC,North Carolina,2012,0.62
+NC,North Carolina,2013,0.62
+NC,North Carolina,2014,0.62
+NC,North Carolina,2015,0.62
+NC,North Carolina,2016,0.62
+NC,North Carolina,2017,0.62
+NC,North Carolina,2018,0.62
+NC,North Carolina,2019,0.62
+NC,North Carolina,2020,0.62
+NC,North Carolina,2021,0.62
+NC,North Carolina,2022,0.62
+NC,North Carolina,2023,0.62
+ND,North Dakota,2003,0.16
+ND,North Dakota,2004,0.16
+ND,North Dakota,2005,0.16
+ND,North Dakota,2006,0.16
+ND,North Dakota,2007,0.16
+ND,North Dakota,2008,0.16
+ND,North Dakota,2009,0.16
+ND,North Dakota,2010,0.16
+ND,North Dakota,2011,0.16
+ND,North Dakota,2012,0.16
+ND,North Dakota,2013,0.16
+ND,North Dakota,2014,0.16
+ND,North Dakota,2015,0.16
+ND,North Dakota,2016,0.16
+ND,North Dakota,2017,0.16
+ND,North Dakota,2018,0.16
+ND,North Dakota,2019,0.16
+ND,North Dakota,2020,0.16
+ND,North Dakota,2021,0.16
+ND,North Dakota,2022,0.16
+ND,North Dakota,2023,0.16
+OH,Ohio,2003,0.18
+OH,Ohio,2004,0.18
+OH,Ohio,2005,0.18
+OH,Ohio,2006,0.18
+OH,Ohio,2007,0.18
+OH,Ohio,2008,0.18
+OH,Ohio,2009,0.18
+OH,Ohio,2010,0.18
+OH,Ohio,2011,0.18
+OH,Ohio,2012,0.18
+OH,Ohio,2013,0.18
+OH,Ohio,2014,0.18
+OH,Ohio,2015,0.18
+OH,Ohio,2016,0.18
+OH,Ohio,2017,0.18
+OH,Ohio,2018,0.18
+OH,Ohio,2019,0.18
+OH,Ohio,2020,0.18
+OH,Ohio,2021,0.18
+OH,Ohio,2022,0.18
+OH,Ohio,2023,0.18
+OK,Oklahoma,2003,0.4
+OK,Oklahoma,2004,0.4
+OK,Oklahoma,2005,0.4
+OK,Oklahoma,2006,0.4
+OK,Oklahoma,2007,0.4
+OK,Oklahoma,2008,0.4
+OK,Oklahoma,2009,0.4
+OK,Oklahoma,2010,0.4
+OK,Oklahoma,2011,0.4
+OK,Oklahoma,2012,0.4
+OK,Oklahoma,2013,0.4
+OK,Oklahoma,2014,0.4
+OK,Oklahoma,2015,0.4
+OK,Oklahoma,2016,0.4
+OK,Oklahoma,2017,0.4
+OK,Oklahoma,2018,0.4
+OK,Oklahoma,2019,0.4
+OK,Oklahoma,2020,0.4
+OK,Oklahoma,2021,0.4
+OK,Oklahoma,2022,0.4
+OK,Oklahoma,2023,0.4
+OR,Oregon,2003,0.08
+OR,Oregon,2004,0.08
+OR,Oregon,2005,0.08
+OR,Oregon,2006,0.08
+OR,Oregon,2007,0.08
+OR,Oregon,2008,0.08
+OR,Oregon,2009,0.08
+OR,Oregon,2010,0.08
+OR,Oregon,2011,0.08
+OR,Oregon,2012,0.08
+OR,Oregon,2013,0.08
+OR,Oregon,2014,0.08
+OR,Oregon,2015,0.08
+OR,Oregon,2016,0.08
+OR,Oregon,2017,0.08
+OR,Oregon,2018,0.08
+OR,Oregon,2019,0.08
+OR,Oregon,2020,0.08
+OR,Oregon,2021,0.08
+OR,Oregon,2022,0.08
+OR,Oregon,2023,0.08
+PA,Pennsylvania,2003,0.08
+PA,Pennsylvania,2004,0.08
+PA,Pennsylvania,2005,0.08
+PA,Pennsylvania,2006,0.08
+PA,Pennsylvania,2007,0.08
+PA,Pennsylvania,2008,0.08
+PA,Pennsylvania,2009,0.08
+PA,Pennsylvania,2010,0.08
+PA,Pennsylvania,2011,0.08
+PA,Pennsylvania,2012,0.08
+PA,Pennsylvania,2013,0.08
+PA,Pennsylvania,2014,0.08
+PA,Pennsylvania,2015,0.08
+PA,Pennsylvania,2016,0.08
+PA,Pennsylvania,2017,0.08
+PA,Pennsylvania,2018,0.08
+PA,Pennsylvania,2019,0.08
+PA,Pennsylvania,2020,0.08
+PA,Pennsylvania,2021,0.08
+PA,Pennsylvania,2022,0.08
+PA,Pennsylvania,2023,0.08
+RI,Rhode Island,2003,0.1
+RI,Rhode Island,2004,0.1
+RI,Rhode Island,2005,0.1
+RI,Rhode Island,2006,0.1
+RI,Rhode Island,2007,0.1
+RI,Rhode Island,2008,0.1
+RI,Rhode Island,2009,0.1
+RI,Rhode Island,2010,0.1
+RI,Rhode Island,2011,0.1
+RI,Rhode Island,2012,0.1
+RI,Rhode Island,2013,0.1
+RI,Rhode Island,2014,0.11
+RI,Rhode Island,2015,0.11
+RI,Rhode Island,2016,0.11
+RI,Rhode Island,2017,0.11
+RI,Rhode Island,2018,0.11
+RI,Rhode Island,2019,0.11
+RI,Rhode Island,2020,0.11
+RI,Rhode Island,2021,0.11
+RI,Rhode Island,2022,0.11
+RI,Rhode Island,2023,0.11
+SC,South Carolina,2003,0.77
+SC,South Carolina,2004,0.77
+SC,South Carolina,2005,0.77
+SC,South Carolina,2006,0.77
+SC,South Carolina,2007,0.77
+SC,South Carolina,2008,0.77
+SC,South Carolina,2009,0.77
+SC,South Carolina,2010,0.77
+SC,South Carolina,2011,0.77
+SC,South Carolina,2012,0.77
+SC,South Carolina,2013,0.77
+SC,South Carolina,2014,0.77
+SC,South Carolina,2015,0.77
+SC,South Carolina,2016,0.77
+SC,South Carolina,2017,0.77
+SC,South Carolina,2018,0.77
+SC,South Carolina,2019,0.77
+SC,South Carolina,2020,0.77
+SC,South Carolina,2021,0.77
+SC,South Carolina,2022,0.77
+SC,South Carolina,2023,0.77
+SD,South Dakota,2003,0.27
+SD,South Dakota,2004,0.27
+SD,South Dakota,2005,0.27
+SD,South Dakota,2006,0.27
+SD,South Dakota,2007,0.27
+SD,South Dakota,2008,0.27
+SD,South Dakota,2009,0.27
+SD,South Dakota,2010,0.27
+SD,South Dakota,2011,0.27
+SD,South Dakota,2012,0.27
+SD,South Dakota,2013,0.27
+SD,South Dakota,2014,0.27
+SD,South Dakota,2015,0.27
+SD,South Dakota,2016,0.27
+SD,South Dakota,2017,0.27
+SD,South Dakota,2018,0.27
+SD,South Dakota,2019,0.27
+SD,South Dakota,2020,0.27
+SD,South Dakota,2021,0.27
+SD,South Dakota,2022,0.27
+SD,South Dakota,2023,0.27
+TN,Tennessee,2003,0.14
+TN,Tennessee,2004,0.14
+TN,Tennessee,2005,0.14
+TN,Tennessee,2006,0.14
+TN,Tennessee,2007,0.14
+TN,Tennessee,2008,0.14
+TN,Tennessee,2009,0.14
+TN,Tennessee,2010,0.14
+TN,Tennessee,2011,0.14
+TN,Tennessee,2012,0.14
+TN,Tennessee,2013,0.14
+TN,Tennessee,2014,1.29
+TN,Tennessee,2015,1.29
+TN,Tennessee,2016,1.29
+TN,Tennessee,2017,1.29
+TN,Tennessee,2018,1.29
+TN,Tennessee,2019,1.29
+TN,Tennessee,2020,1.29
+TN,Tennessee,2021,1.29
+TN,Tennessee,2022,1.29
+TN,Tennessee,2023,1.29
+TX,Texas,2003,0.19
+TX,Texas,2004,0.19
+TX,Texas,2005,0.19
+TX,Texas,2006,0.19
+TX,Texas,2007,0.19
+TX,Texas,2008,0.19
+TX,Texas,2009,0.19
+TX,Texas,2010,0.19
+TX,Texas,2011,0.19
+TX,Texas,2012,0.19
+TX,Texas,2013,0.19
+TX,Texas,2014,0.19
+TX,Texas,2015,0.19
+TX,Texas,2016,0.19
+TX,Texas,2017,0.19
+TX,Texas,2018,0.19
+TX,Texas,2019,0.19
+TX,Texas,2020,0.19
+TX,Texas,2021,0.19
+TX,Texas,2022,0.19
+TX,Texas,2023,0.19
+UT,Utah,2003,
+UT,Utah,2004,
+UT,Utah,2005,
+UT,Utah,2006,
+UT,Utah,2007,
+UT,Utah,2008,
+UT,Utah,2009,
+UT,Utah,2010,
+UT,Utah,2011,
+UT,Utah,2012,
+UT,Utah,2013,
+UT,Utah,2014,
+UT,Utah,2015,
+UT,Utah,2016,
+UT,Utah,2017,
+UT,Utah,2018,
+UT,Utah,2019,
+UT,Utah,2020,0.42
+UT,Utah,2021,0.42
+UT,Utah,2022,0.42
+UT,Utah,2023,0.42
+VT,Vermont,2003,0.27
+VT,Vermont,2004,0.27
+VT,Vermont,2005,0.27
+VT,Vermont,2006,0.27
+VT,Vermont,2007,0.27
+VT,Vermont,2008,0.27
+VT,Vermont,2009,0.27
+VT,Vermont,2010,0.27
+VT,Vermont,2011,0.27
+VT,Vermont,2012,0.27
+VT,Vermont,2013,0.27
+VT,Vermont,2014,0.27
+VT,Vermont,2015,0.27
+VT,Vermont,2016,0.27
+VT,Vermont,2017,0.27
+VT,Vermont,2018,0.27
+VT,Vermont,2019,0.27
+VT,Vermont,2020,0.27
+VT,Vermont,2021,0.27
+VT,Vermont,2022,0.27
+VT,Vermont,2023,0.27
+VA,Virginia,2003,0.28
+VA,Virginia,2004,0.28
+VA,Virginia,2005,0.28
+VA,Virginia,2006,0.28
+VA,Virginia,2007,0.28
+VA,Virginia,2008,0.28
+VA,Virginia,2009,0.28
+VA,Virginia,2010,0.28
+VA,Virginia,2011,0.28
+VA,Virginia,2012,0.28
+VA,Virginia,2013,0.28
+VA,Virginia,2014,0.28
+VA,Virginia,2015,0.28
+VA,Virginia,2016,0.28
+VA,Virginia,2017,0.28
+VA,Virginia,2018,0.28
+VA,Virginia,2019,0.28
+VA,Virginia,2020,0.28
+VA,Virginia,2021,0.28
+VA,Virginia,2022,0.28
+VA,Virginia,2023,0.28
+WA,Washington,2003,
+WA,Washington,2004,
+WA,Washington,2005,
+WA,Washington,2006,
+WA,Washington,2007,
+WA,Washington,2008,
+WA,Washington,2009,
+WA,Washington,2010,
+WA,Washington,2011,
+WA,Washington,2012,0.76
+WA,Washington,2013,0.76
+WA,Washington,2014,0.76
+WA,Washington,2015,0.76
+WA,Washington,2016,0.76
+WA,Washington,2017,0.76
+WA,Washington,2018,0.76
+WA,Washington,2019,0.76
+WA,Washington,2020,0.76
+WA,Washington,2021,0.76
+WA,Washington,2022,0.76
+WA,Washington,2023,0.76
+WV,West Virginia,2003,0.18
+WV,West Virginia,2004,0.18
+WV,West Virginia,2005,0.18
+WV,West Virginia,2006,0.18
+WV,West Virginia,2007,0.18
+WV,West Virginia,2008,0.18
+WV,West Virginia,2009,0.18
+WV,West Virginia,2010,0.18
+WV,West Virginia,2011,0.18
+WV,West Virginia,2012,0.18
+WV,West Virginia,2013,0.18
+WV,West Virginia,2014,0.18
+WV,West Virginia,2015,0.18
+WV,West Virginia,2016,0.18
+WV,West Virginia,2017,0.18
+WV,West Virginia,2018,0.18
+WV,West Virginia,2019,0.18
+WV,West Virginia,2020,0.18
+WV,West Virginia,2021,0.18
+WV,West Virginia,2022,0.18
+WV,West Virginia,2023,0.18
+WI,Wisconsin,2003,0.06
+WI,Wisconsin,2004,0.06
+WI,Wisconsin,2005,0.06
+WI,Wisconsin,2006,0.06
+WI,Wisconsin,2007,0.06
+WI,Wisconsin,2008,0.06
+WI,Wisconsin,2009,0.06
+WI,Wisconsin,2010,0.06
+WI,Wisconsin,2011,0.06
+WI,Wisconsin,2012,0.06
+WI,Wisconsin,2013,0.06
+WI,Wisconsin,2014,0.06
+WI,Wisconsin,2015,0.06
+WI,Wisconsin,2016,0.06
+WI,Wisconsin,2017,0.06
+WI,Wisconsin,2018,0.06
+WI,Wisconsin,2019,0.06
+WI,Wisconsin,2020,0.06
+WI,Wisconsin,2021,0.06
+WI,Wisconsin,2022,0.06
+WI,Wisconsin,2023,0.06
+WY,Wyoming,2003,0.02
+WY,Wyoming,2004,0.02
+WY,Wyoming,2005,0.02
+WY,Wyoming,2006,0.02
+WY,Wyoming,2007,0.02
+WY,Wyoming,2008,0.02
+WY,Wyoming,2009,0.02
+WY,Wyoming,2010,0.02
+WY,Wyoming,2011,0.02
+WY,Wyoming,2012,0.02
+WY,Wyoming,2013,0.02
+WY,Wyoming,2014,0.02
+WY,Wyoming,2015,0.02
+WY,Wyoming,2016,0.02
+WY,Wyoming,2017,0.02
+WY,Wyoming,2018,0.02
+WY,Wyoming,2019,0.02
+WY,Wyoming,2020,0.02
+WY,Wyoming,2021,0.02
+WY,Wyoming,2022,0.02
+WY,Wyoming,2023,0.02

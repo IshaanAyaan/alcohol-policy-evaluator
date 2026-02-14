@@ -1,0 +1,4 @@
+Source,Coverage Flag,Rows
+YRBS_Explorer,missing_no_location_code,15
+YRBS_Explorer,missing_no_state_data,138
+YRBS_Socrata,observed,418

@@ -1,0 +1,6 @@
+Metric,Value,Meaning
+State-year rows,1071,How many state x year snapshots are in the main panel.
+Jurisdictions,51,How many places were tracked (50 states + DC).
+Year range,2003-2023,Start and end of the main analysis timeline.
+Teen panel rows,571,How many teen wave records we have.
+Teen current-use observations,418,How many teen drinking values are actual observations (not missing).

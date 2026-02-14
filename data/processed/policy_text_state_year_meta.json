@@ -1,0 +1,5 @@
+{
+  "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+  "n_rows": 1071,
+  "n_dims": 384
+}
