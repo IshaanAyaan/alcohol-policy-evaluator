@@ -2,13 +2,23 @@
 
 from __future__ import annotations
 
+import sys
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from src.config import PROCESSED_DIR
-from src.utils.states import ABBREV_TO_NAME
+try:
+    from src.config import PROCESSED_DIR
+    from src.utils.states import ABBREV_TO_NAME
+except ModuleNotFoundError:
+    PROJECT_ROOT = Path(__file__).resolve().parents[2]
+    if str(PROJECT_ROOT) not in sys.path:
+        sys.path.insert(0, str(PROJECT_ROOT))
+    from src.config import PROCESSED_DIR
+    from src.utils.states import ABBREV_TO_NAME
 
 
 @st.cache_data
